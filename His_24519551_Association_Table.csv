@@ -1,24 +1,24 @@
 pmid,analytic_method,experiment_name,biomarker_id,biomarker_id_origin,biomarker_long_name,biomarker_short_name,original_name,originial_value,association_name,association_value,association_unit,95% CI,se,association_p_value,association_p_value_qualifier,association_p_value_unit,concept_id,concept_id_description
-24519551,24519551.1.1,,,,Total Cholesterol,T-C,Hazard Ratio,0.91,Hazard Ratio,0.91,,0.82 - 1.00,-0.045921232,0.04,,,C80.0,Overall Cancer
-24519551,24519551.1.2,,,,Total Cholesterol,T-C,Hazard Ratio,0.91,Hazard Ratio,0.91,,0.82 - 1.00,-0.045921232,0.04,,,C80.0,Overall Cancer
-24519551,24519551.1.1,,,,Low-Density Lipoprotein Cholesterol,LDL-C,Hazard Ratio,0.93,Hazard Ratio,0.93,,0.82 - 1.05,-0.056627213,0.2,,,C80.0,Overall Cancer
-24519551,24519551.1.2,,,,Low-Density Lipoprotein Cholesterol,LDL-C,Hazard Ratio,0.93,Hazard Ratio,0.93,,0.82 - 1.05,-0.056627213,0.2,,,C80.0,Overall Cancer
-24519551,24519551.1.1,,,,High-Density Lipoprotein Cholesterol,HDL-C,Hazard Ratio,0.61,Hazard Ratio,0.61,,0.46 - 0.82,-0.147428147,0.0008,,,C80.0,Overall Cancer
-24519551,24519551.1.2,,,,High-Density Lipoprotein Cholesterol,HDL-C,Hazard Ratio,0.61,Hazard Ratio,0.61,,0.46 - 0.82,-0.147428147,0.0008,,,C80.0,Overall Cancer
-24519551,24519551.1.1,,,,Triglycerides,TG,Hazard Ratio,1.03,Hazard Ratio,1.03,,0.87 - 1.22,0.076712256,0.7,,,C80.0,Overall Cancer
-24519551,24519551.1.2,,,,Triglycerides,TG,Hazard Ratio,1.03,Hazard Ratio,1.03,,0.87 - 1.21,0.116673141,0.8,,,C80.0,Overall Cancer
-24519551,24519551.1.1,,,,Apolipoprotein A1,ApoA1,Hazard Ratio,0.56,Hazard Ratio,0.56,,0.39 - 0.82,-0.195373887,0.003,,,C80.0,Overall Cancer
-24519551,24519551.1.2,,,,Apolipoprotein A1,ApoA1,Hazard Ratio,0.56,Hazard Ratio,0.56,,0.39 - 0.82,-0.195373887,0.003,,,C80.0,Overall Cancer
-24519551,24519551.1.1,,,,Apolipoprotein B,ApoB,Hazard Ratio,0.94,Hazard Ratio,0.94,,0.64 - 1.39,-0.24423174,0.8,,,C80.0,Overall Cancer
-24519551,24519551.1.2,,,,Apolipoprotein B,ApoB,Hazard Ratio,0.94,Hazard Ratio,0.94,,0.64 -1.39,-0.24423174,0.8,,,C80.0,Overall Cancer
-24519551,24519551.1.1,,,,Apolipoprotein B - Apolipoprotein A1 ratio,ApoB/ApoA1 ,Hazard Ratio,1.5,Hazard Ratio,1.5,,0.93 - 2.41,0.246505283,0.1,,,C80.0,Overall Cancer
-24519551,24519551.1.2,,,,Apolipoprotein B - Apolipoprotein A1 ratio,ApoB/ApoA1 ,Hazard Ratio,1.5,Hazard Ratio,1.5,,0.93 - 2.41,0.246505283,0.1,,,C80.0,Overall Cancer
-24519551,24519551.1.1,,,,Low-Density Lipoprotein Cholesterol - High-Density Lipoprotein Cholesterol ratio,LDL-C/HDL-C,Hazard Ratio,1.19,Hazard Ratio,1.19,,1.00 - 1.42,0.087972127,0.048,,,C80.0,Overall Cancer
-24519551,24519551.1.2,,,,Low-Density Lipoprotein Cholesterol - High-Density Lipoprotein Cholesterol ratio,LDL-C/HDL-C,Hazard Ratio,1.19,Hazard Ratio,1.19,,1.00 - 1.42,0.088364342,0.049,,,C80.0,Overall Cancer
-24519551,24519551.1.1,,,,Total Cholesterol - High-Density Lipoprotein Cholesterol ratio,T-C/HDL-C,Hazard Ratio,1.18,Hazard Ratio,1.18,,1.02 - 1.36,0.076270758,0.03,,,C80.0,Overall Cancer
-24519551,24519551.1.2,,,,Total Cholesterol - High-Density Lipoprotein Cholesterol ratio,T-C/HDL-C,Hazard Ratio,1.18,Hazard Ratio,1.18,,1.02 -1.36,0.076270758,0.03,,,C80.0,Overall Cancer
-24519551,24519551.1.1,,,,Triglycerides- High-Density Lipoprotein Cholesterol ratio,TG/HDL-C,Hazard Ratio,1.07,Hazard Ratio,1.07,,0.88 - 1.31,0.100310862,0.5,,,C80.0,Overall Cancer
-24519551,24519551.1.2,,,,Triglycerides- High-Density Lipoprotein Cholesterol ratio,TG/HDL-C,Hazard Ratio,1.07,Hazard Ratio,1.07,,0.87- 1.31,0.100310862,0.5,,,C80.0,Overall Cancer
+24519551,24519551.1.1,,,,Total Cholesterol,T-C,Hazard Ratio,0.91,Hazard Ratio,0.91,,0.82 - 1.00,-0.045921232,0.04,,,C80,Overall Cancer
+24519551,24519551.1.2,,,,Total Cholesterol,T-C,Hazard Ratio,0.91,Hazard Ratio,0.91,,0.82 - 1.00,-0.045921232,0.04,,,C80,Overall Cancer
+24519551,24519551.1.1,,,,Low-Density Lipoprotein Cholesterol,LDL-C,Hazard Ratio,0.93,Hazard Ratio,0.93,,0.82 - 1.05,-0.056627213,0.2,,,C80,Overall Cancer
+24519551,24519551.1.2,,,,Low-Density Lipoprotein Cholesterol,LDL-C,Hazard Ratio,0.93,Hazard Ratio,0.93,,0.82 - 1.05,-0.056627213,0.2,,,C80,Overall Cancer
+24519551,24519551.1.1,,,,High-Density Lipoprotein Cholesterol,HDL-C,Hazard Ratio,0.61,Hazard Ratio,0.61,,0.46 - 0.82,-0.147428147,0.0008,,,C80,Overall Cancer
+24519551,24519551.1.2,,,,High-Density Lipoprotein Cholesterol,HDL-C,Hazard Ratio,0.61,Hazard Ratio,0.61,,0.46 - 0.82,-0.147428147,0.0008,,,C80,Overall Cancer
+24519551,24519551.1.1,,,,Triglycerides,TG,Hazard Ratio,1.03,Hazard Ratio,1.03,,0.87 - 1.22,0.076712256,0.7,,,C80,Overall Cancer
+24519551,24519551.1.2,,,,Triglycerides,TG,Hazard Ratio,1.03,Hazard Ratio,1.03,,0.87 - 1.21,0.116673141,0.8,,,C80,Overall Cancer
+24519551,24519551.1.1,,,,Apolipoprotein A1,ApoA1,Hazard Ratio,0.56,Hazard Ratio,0.56,,0.39 - 0.82,-0.195373887,0.003,,,C80,Overall Cancer
+24519551,24519551.1.2,,,,Apolipoprotein A1,ApoA1,Hazard Ratio,0.56,Hazard Ratio,0.56,,0.39 - 0.82,-0.195373887,0.003,,,C80,Overall Cancer
+24519551,24519551.1.1,,,,Apolipoprotein B,ApoB,Hazard Ratio,0.94,Hazard Ratio,0.94,,0.64 - 1.39,-0.24423174,0.8,,,C80,Overall Cancer
+24519551,24519551.1.2,,,,Apolipoprotein B,ApoB,Hazard Ratio,0.94,Hazard Ratio,0.94,,0.64 -1.39,-0.24423174,0.8,,,C80,Overall Cancer
+24519551,24519551.1.1,,,,Apolipoprotein B - Apolipoprotein A1 ratio,ApoB/ApoA1 ,Hazard Ratio,1.5,Hazard Ratio,1.5,,0.93 - 2.41,0.246505283,0.1,,,C80,Overall Cancer
+24519551,24519551.1.2,,,,Apolipoprotein B - Apolipoprotein A1 ratio,ApoB/ApoA1 ,Hazard Ratio,1.5,Hazard Ratio,1.5,,0.93 - 2.41,0.246505283,0.1,,,C80,Overall Cancer
+24519551,24519551.1.1,,,,Low-Density Lipoprotein Cholesterol - High-Density Lipoprotein Cholesterol ratio,LDL-C/HDL-C,Hazard Ratio,1.19,Hazard Ratio,1.19,,1.00 - 1.42,0.087972127,0.048,,,C80,Overall Cancer
+24519551,24519551.1.2,,,,Low-Density Lipoprotein Cholesterol - High-Density Lipoprotein Cholesterol ratio,LDL-C/HDL-C,Hazard Ratio,1.19,Hazard Ratio,1.19,,1.00 - 1.42,0.088364342,0.049,,,C80,Overall Cancer
+24519551,24519551.1.1,,,,Total Cholesterol - High-Density Lipoprotein Cholesterol ratio,T-C/HDL-C,Hazard Ratio,1.18,Hazard Ratio,1.18,,1.02 - 1.36,0.076270758,0.03,,,C80,Overall Cancer
+24519551,24519551.1.2,,,,Total Cholesterol - High-Density Lipoprotein Cholesterol ratio,T-C/HDL-C,Hazard Ratio,1.18,Hazard Ratio,1.18,,1.02 -1.36,0.076270758,0.03,,,C80,Overall Cancer
+24519551,24519551.1.1,,,,Triglycerides- High-Density Lipoprotein Cholesterol ratio,TG/HDL-C,Hazard Ratio,1.07,Hazard Ratio,1.07,,0.88 - 1.31,0.100310862,0.5,,,C80,Overall Cancer
+24519551,24519551.1.2,,,,Triglycerides- High-Density Lipoprotein Cholesterol ratio,TG/HDL-C,Hazard Ratio,1.07,Hazard Ratio,1.07,,0.87- 1.31,0.100310862,0.5,,,C80,Overall Cancer
 24519551,24519551.1.1,,,,Total Cholesterol,T-C,Hazard Ratio,0.83,Hazard Ratio,0.83,,0.69 - 0.99,-0.090726562,0.04,,,C50,Breast Cancer
 24519551,24519551.1.2,,,,Total Cholesterol,T-C,Hazard Ratio,0.83,Hazard Ratio,0.83,,0.69 - 0.99,-0.090726562,0.04,,,C50,Breast Cancer
 24519551,24519551.1.1,,,,Low-Density Lipoprotein Cholesterol,LDL-C,Hazard Ratio,0.83,Hazard Ratio,0.83,,0.66 - 1.05,-0.11328034,0.1,,,C50,Breast Cancer
