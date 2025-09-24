@@ -1,13 +1,13 @@
 pmid,analytic_method,experiment_name,biomarker_id,biomarker_long_name,biomarker_short_name,association_name,association_value,association_unit,original_name,original_value,95% CI,se,association_p_value,association_p_value_qualifier,association_p_value_unit,concept_id,concept_id_description
-23283524,23283524.1,,,Estradiol,E2,Relative Risk,2.1,Q4 v Q1,,,"(1.6, 2.7)",,0.001,<,,C50.0,Overall Breast Cancer
-23283524,23283524.1,,,Estradiol,E2,Relative Risk,2.8,Q4 v Q1,,,"(2.0, 4.0)",,0.001,<,,"C50.0, Z17.0",ER+/PR+ breast cancer
-23283524,23283524.1,,,Free estradiol,Free E2,Relative Risk,1.9,Q4 v Q1,,,"(1.4, 2.4)",,0.001,<,,C50.0,Overall Breast Cancer
-23283524,23283524.1,,,Free estradiol,Free E2,Relative Risk,2.8,Q4 v Q1,,,"(1.9, 4.0)",,0.001,<,,"C50.0, Z17.0",ER+/PR+ breast cancer
-23283524,23283524.1,,,Testosterone,T,Relative Risk,1.5,Q4 v Q1,,,"(1.2, 1.9)",,0.001,<,,C50.0,Overall Breast Cancer
-23283524,23283524.1,,,Testosterone,T,Relative Risk,1.8,Q4 v Q1,,,"(1.3, 2.5)",,0.001,<,,"C50.0, Z17.0",ER+/PR+ breast cancer
-23283524,23283524.1,,,Free testosterone,Free T,Relative Risk,1.9,Q4 v Q1,,,"(1.5, 2.5)",,0.001,<,,C50.0,Overall Breast Cancer
-23283524,23283524.1,,,Free testosterone,Free T,Relative Risk,2.6,Q4 v Q1,,,"(1.8, 3.7)",,0.001,<,,"C50.0, Z17.0",ER+/PR+ breast cancer
-23283524,23283524.1,,,Dehydroepiandrosterone Sulfate,DHEAS,Relative Risk,1.7,Q4 v Q1,,,"(1.3, 2.3)",,0.001,,,C50.0,Overall Breast Cancer
-23283524,23283524.1,,,Dehydroepiandrosterone Sulfate,DHEAS,Relative Risk,2.1,Q4 v Q1,,,"(1.4, 3.0)",,0.001,<,,"C50.0, Z17.0",ER+/PR+ breast cancer
-23283524,23283524.1,,,"Sex Hormone, Binding Globulin",SHBG,Relative Risk,0.68,Q4 v Q1,,,"(0.52, 0.88)",,0.004,,,C50.0,Overall Breast Cancer
-23283524,23283524.1,,,"Sex Hormone, Binding Globulin",SHBG,Relative Risk,0.43,Q4 v Q1,,,"(0.30, 0.62)",,0.001,<,,"C50.0, Z17.0",ER+/PR+ breast cancer
+23283524,23283524.1,,,Estradiol,E2,Relative Risk,2.1,Q4 v Q1,,,"(1.6, 2.7)",,0.001,<,,C50,Breast Cancer
+23283524,23283524.1,,,Estradiol,E2,Relative Risk,2.8,Q4 v Q1,,,"(2.0, 4.0)",,0.001,<,,Z17.0/Z17.2/C50,ER+/PR+ breast cancer
+23283524,23283524.1,,,Free estradiol,Free E2,Relative Risk,1.9,Q4 v Q1,,,"(1.4, 2.4)",,0.001,<,,C50,Breast Cancer
+23283524,23283524.1,,,Free estradiol,Free E2,Relative Risk,2.8,Q4 v Q1,,,"(1.9, 4.0)",,0.001,<,,Z17.0/Z17.2/C50,ER+/PR+ breast cancer
+23283524,23283524.1,,,Testosterone,T,Relative Risk,1.5,Q4 v Q1,,,"(1.2, 1.9)",,0.001,<,,C50,Breast Cancer
+23283524,23283524.1,,,Testosterone,T,Relative Risk,1.8,Q4 v Q1,,,"(1.3, 2.5)",,0.001,<,,Z17.0/Z17.2/C50,ER+/PR+ breast cancer
+23283524,23283524.1,,,Free testosterone,Free T,Relative Risk,1.9,Q4 v Q1,,,"(1.5, 2.5)",,0.001,<,,C50,Breast Cancer
+23283524,23283524.1,,,Free testosterone,Free T,Relative Risk,2.6,Q4 v Q1,,,"(1.8, 3.7)",,0.001,<,,Z17.0/Z17.2/C50,ER+/PR+ breast cancer
+23283524,23283524.1,,,Dehydroepiandrosterone Sulfate,DHEAS,Relative Risk,1.7,Q4 v Q1,,,"(1.3, 2.3)",,0.001,,,C50,Breast Cancer
+23283524,23283524.1,,,Dehydroepiandrosterone Sulfate,DHEAS,Relative Risk,2.1,Q4 v Q1,,,"(1.4, 3.0)",,0.001,<,,Z17.0/Z17.2/C50,ER+/PR+ breast cancer
+23283524,23283524.1,,,"Sex Hormone, Binding Globulin",SHBG,Relative Risk,0.68,Q4 v Q1,,,"(0.52, 0.88)",,0.004,,,C50,Breast Cancer
+23283524,23283524.1,,,"Sex Hormone, Binding Globulin",SHBG,Relative Risk,0.43,Q4 v Q1,,,"(0.30, 0.62)",,0.001,<,,Z17.0/Z17.2/C50,ER+/PR+ breast cancer

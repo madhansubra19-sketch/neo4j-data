@@ -1,5 +1,5 @@
 pmid,analytical_cohort_id,cohort_name,study_design,setting,period of recruitment,period of exposure,period of follow-up,observation period,data colleciton,species,inclusion_exlusion_criteria,overall n value,exposure,recruitment_start_date,recruitment_end_date
-23283524,23283524.1,,case control,,,,,,,Homo Sapiens,"From 1989–1990, an initial blood sample was collected from 32,826 cohort members (women), who were 43–69 years of age
+23283524,23283524.1,Nurses Health Study,case control,,,,,,,Homo Sapiens,"From 1989–1990, an initial blood sample was collected from 32,826 cohort members (women), who were 43–69 years of age
 
 A second blood sample was collected from a subset of these women in 2000–2002;  women who were still alive, had responded to a recent questionnaire and had no history of cancer, were invited to participate. 
 
