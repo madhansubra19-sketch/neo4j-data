@@ -1,0 +1,8 @@
+pmid,analytical_cohort_id,cohort_name,study_design,setting,period of recruitment,period of exposure,period of follow-up,observation period,data colleciton,species,inclusion_exlusion_criteria,overall n value,exposure,recruitment_start_date,recruitment_end_date
+23283524,23283524.1,,case control,,,,,,,Homo Sapiens,"From 1989–1990, an initial blood sample was collected from 32,826 cohort members (women), who were 43–69 years of age
+
+A second blood sample was collected from a subset of these women in 2000–2002;  women who were still alive, had responded to a recent questionnaire and had no history of cancer, were invited to participate. 
+
+The breast cancer cases and controls in this analysis are women who, at either blood collection, were postmenopausal and had not used postmenopausal hormones for at least 3 months. Cases who did not provide a second blood sample or were diagnosed prior to the 2nd collection contributed one blood sample to the analysis; cases diagnosed after donating a second blood sample provided one or two samples to the analysis, depending on their menopausal and hormone use status at each draw.
+
+All breast cancer cases were confirmed by medical records or verbally by the nurse [24]. We matched two control subjects (except for DHEAS, 1:1 match for 2002–2008 cycles for financial reasons) per case by age (±1 year), month (±1 month) and time of day (±2 h) of blood collection, and fasting status (≥10 h since a meal vs. <10 h or unknown) at each blood collection.",51569,Hormones,,

@@ -1,0 +1,2 @@
+pmid,analytic_method,analytic_measure,analytic_model,model_details,result_id
+23283524,23283524.1,Plasma estrogen and androgen levels,unconditional logistic regression,"We used unconditional logistic regression to increase our statistical power in some analyses (controlling for matching factors and potential or established risk factors for breast cancer, to estimate relative risks (RRs)); conditional logistic regression models yielded similar results.",
