@@ -1,17 +1,17 @@
-pmid,analytic_method,experiment_name,biomarker_id,biomarker_id_origin,biomarker_long_name,biomarker_short_name,original_name,original_value,association_name,association_value,association_unit,95% CI,se,association_p_value,association_p_qualifier,association_p_value_unit,concept_id,concept_id_description
-24205276,24205276.1.1,CRISPS,,,C-Reactive Protein,CRP,Hazard Ratio,1.2,Hazard Ratio,1.2,per natural log unit (ln),0.99-1.44,0.097691675,0.062,,,C80,Overall Cancer
-24205276,24205276.1.1,CRISPS,,,Interleukin-6,Il-6,Hazard Ratio,1.51,Hazard Ratio,1.51,,1.18-1.95,0.125241241,0.001,,,C80,Overall Cancer
-24205276,24205276.1.1,CRISPS,,,Soluble Tumor Necrosis Factor 2,sTNFR2,Hazard Ratio,3.27,Hazard Ratio,3.27,,1.65-6.47,0.36006089,0.001,,,C80,Overall Cancer
-24205276,24205276.1.1,CRISPS,,,Lipocalin-2,LCN-2,Hazard Ratio,1.23,Hazard Ratio,1.23,,0.79-1.93,0.22757225,0.363,,,C80,Overall Cancer
-24205276,24205276.1.2,CRISPS,,,C-Reactive Protein,CRP,Hazard Ratio,1.17,Hazard Ratio,1.17,,0.96-1.42,0.102069864,0.124,,,C80,Overall Cancer
-24205276,24205276.1.2,CRISPS,,,Interleukin-6,Il-6,Hazard Ratio,1.49,Hazard Ratio,1.49,,1.15-1.91,0.129044059,0.002,,,C80,Overall Cancer
-24205276,24205276.1.2,CRISPS,,,Soluble Tumor Necrosis Factor 2,sTNFR2,Hazard Ratio,3.21,Hazard Ratio,3.21,,1.61-6.39,0.354432902,0.001,,,C80,Overall Cancer
-24205276,24205276.1.2,CRISPS,,,Lipocalin-2,LCN-2,Hazard Ratio,1.21,Hazard Ratio,1.21,,0.77-1.90,0.226973147,0.401,,,C80,Overall Cancer
-24205276,24205276.1.3,CRISPS,,,C-Reactive Protein,CRP,Hazard Ratio,1.19,Hazard Ratio,1.19,,0.98-1.43,0.09702718,0.073,,,C80,Overall Cancer
-24205276,24205276.1.3,CRISPS,,,Interleukin-6,Il-6,Hazard Ratio,1.52,Hazard Ratio,1.52,,1.18-1.96,0.127247207,0.001,,,C80,Overall Cancer
-24205276,24205276.1.3,CRISPS,,,Soluble Tumor Necrosis Factor 2,sTNFR2,Hazard Ratio,3.2,Hazard Ratio,3.2,,1.62-6.29,0.353484686,0.001,,,C80,Overall Cancer
-24205276,24205276.1.3,CRISPS,,,Lipocalin-2,LCN-2,Hazard Ratio,1.23,Hazard Ratio,1.23,,0.78-1.93,0.229478494,0.367,,,C80,Overall Cancer
-24205276,24205276.1.4,CRISPS,,,C-Reactive Protein,CRP,Hazard Ratio,1.17,Hazard Ratio,1.17,,0.96-1.42,0.102883141,0.127,,,C80,Overall Cancer
-24205276,24205276.1.4,CRISPS,,,Interleukin-6,Il-6,Hazard Ratio,1.5,Hazard Ratio,1.5,,1.16-1.94,0.131208617,0.002,,,C80,Overall Cancer
-24205276,24205276.1.4,CRISPS,,,Soluble Tumor Necrosis Factor 2,sTNFR2,Hazard Ratio,3.16,Hazard Ratio,3.16,,1.59-6.25,0.34966196,0.001,,,C80,Overall Cancer
-24205276,24205276.1.4,CRISPS,,,Lipocalin-2,LCN-2,Hazard Ratio,1.22,Hazard Ratio,1.22,,0.77-1.91,0.234773216,0.397,,,C80,Overall Cancer
+pmid,analytic_method,experiment_name,biomarker_id,biomarker_id_origin,biomarker_long_name,biomarker_short_name,original_name,original_value,association_name,association_value,association_unit,95% CI,se,association_p_value,association_p_qualifier,association_p_value_unit,association_p_value_raw,association_p_value_raw_qualifier,association_p_value_raw_unit,concept_id,concept_id_description
+24205276,24205276.1.1,CRISPS,,,C-Reactive Protein,CRP,Hazard Ratio,1.2,Hazard Ratio,1.2,per natural log unit (ln),0.99-1.44,0.097691675,0.062,,,,,,C80,Overall Cancer
+24205276,24205276.1.1,CRISPS,,,Interleukin-6,Il-6,Hazard Ratio,1.51,Hazard Ratio,1.51,,1.18-1.95,0.125241241,0.001,,,,,,C80,Overall Cancer
+24205276,24205276.1.1,CRISPS,,,Soluble Tumor Necrosis Factor 2,sTNFR2,Hazard Ratio,3.27,Hazard Ratio,3.27,,1.65-6.47,0.36006089,0.001,,,,,,C80,Overall Cancer
+24205276,24205276.1.1,CRISPS,,,Lipocalin-2,LCN-2,Hazard Ratio,1.23,Hazard Ratio,1.23,,0.79-1.93,0.22757225,0.363,,,,,,C80,Overall Cancer
+24205276,24205276.1.2,CRISPS,,,C-Reactive Protein,CRP,Hazard Ratio,1.17,Hazard Ratio,1.17,,0.96-1.42,0.102069864,0.124,,,,,,C80,Overall Cancer
+24205276,24205276.1.2,CRISPS,,,Interleukin-6,Il-6,Hazard Ratio,1.49,Hazard Ratio,1.49,,1.15-1.91,0.129044059,0.002,,,,,,C80,Overall Cancer
+24205276,24205276.1.2,CRISPS,,,Soluble Tumor Necrosis Factor 2,sTNFR2,Hazard Ratio,3.21,Hazard Ratio,3.21,,1.61-6.39,0.354432902,0.001,,,,,,C80,Overall Cancer
+24205276,24205276.1.2,CRISPS,,,Lipocalin-2,LCN-2,Hazard Ratio,1.21,Hazard Ratio,1.21,,0.77-1.90,0.226973147,0.401,,,,,,C80,Overall Cancer
+24205276,24205276.1.3,CRISPS,,,C-Reactive Protein,CRP,Hazard Ratio,1.19,Hazard Ratio,1.19,,0.98-1.43,0.09702718,0.073,,,,,,C80,Overall Cancer
+24205276,24205276.1.3,CRISPS,,,Interleukin-6,Il-6,Hazard Ratio,1.52,Hazard Ratio,1.52,,1.18-1.96,0.127247207,0.001,,,,,,C80,Overall Cancer
+24205276,24205276.1.3,CRISPS,,,Soluble Tumor Necrosis Factor 2,sTNFR2,Hazard Ratio,3.2,Hazard Ratio,3.2,,1.62-6.29,0.353484686,0.001,,,,,,C80,Overall Cancer
+24205276,24205276.1.3,CRISPS,,,Lipocalin-2,LCN-2,Hazard Ratio,1.23,Hazard Ratio,1.23,,0.78-1.93,0.229478494,0.367,,,,,,C80,Overall Cancer
+24205276,24205276.1.4,CRISPS,,,C-Reactive Protein,CRP,Hazard Ratio,1.17,Hazard Ratio,1.17,,0.96-1.42,0.102883141,0.127,,,,,,C80,Overall Cancer
+24205276,24205276.1.4,CRISPS,,,Interleukin-6,Il-6,Hazard Ratio,1.5,Hazard Ratio,1.5,,1.16-1.94,0.131208617,0.002,,,,,,C80,Overall Cancer
+24205276,24205276.1.4,CRISPS,,,Soluble Tumor Necrosis Factor 2,sTNFR2,Hazard Ratio,3.16,Hazard Ratio,3.16,,1.59-6.25,0.34966196,0.001,,,,,,C80,Overall Cancer
+24205276,24205276.1.4,CRISPS,,,Lipocalin-2,LCN-2,Hazard Ratio,1.22,Hazard Ratio,1.22,,0.77-1.91,0.234773216,0.397,,,,,,C80,Overall Cancer

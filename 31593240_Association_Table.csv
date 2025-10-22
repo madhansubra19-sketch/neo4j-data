@@ -1,46 +1,46 @@
-pmid,analytic_method,experiment_name,biomarker_id,biomarker_id_origin,biomarker_long_name,biomarker_short_name,original_name,original_value,association_name,association_value,association_unit,95% CI,se,association_p_value,association_p_qualifier,association_p_value_unit,concept_id,concept_id_description
-31593240,31593240.1.1,,HMDB01348,Human Metabolome Database,C18:0 Sphingomyelins,C18:0 SM,Odds Ratio,2.1,Odds Ratio,2.1,Q90 v Q10,"(1.26, 3.49)",,0.08,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB10169,Human Metabolome Database,C16:0 Sphingomyelins,C16:0 SM,Odds Ratio,2.06,Odds Ratio,2.06,Q90 v Q10,"(1.19, 3.56)",,0.17,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,NA,,Sphingomyelins Sum,SM Sum,Odds Ratio,1.97,Odds Ratio,1.97,Q90 v Q10,"(1.16, 3.32)",,0.2,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB04949,Human Metabolome Database,C16:0 Ceramide,C16:0 CER,Odds Ratio,1.95,Odds Ratio,1.95,Q90 v Q10,"(1.16, 3.30)",,0.21,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB07973*,Human Metabolome Database,C34:2 Phosphatidylcholines,C34:2 PC,Odds Ratio,1.82,Odds Ratio,1.82,Q90 v Q10,"(1.08, 3.06)",,0.36,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB08047*,Human Metabolome Database,C38:3 Phosphatidylcholines,C38:3 PC,Odds Ratio,1.67,Odds Ratio,1.67,Q90 v Q10,"(1.01, 2.76)",,0.55,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB12097,Human Metabolome Database,C14:0 Sphingomyelins,C14:0 SM,Odds Ratio,1.65,Odds Ratio,1.65,Q90 v Q10,"(1.00, 2.72)",,0.6,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB12104*,Human Metabolome Database,C22:1 Sphingomyelins,C22:1 SM,Odds Ratio,1.65,Odds Ratio,1.65,Q90 v Q10,"(0.98, 2.77)",,0.64,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB12102,Human Metabolome Database,C20:0 Sphingomyelins,C20:0 SM,Odds Ratio,1.6,Odds Ratio,1.6,Q90 v Q10,"(0.97, 2.63)",,0.66,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,NA,,C16:1 Sphingomyelins,C16:1 SM,Odds Ratio,1.44,Odds Ratio,1.44,Q90 v Q10,"(0.86, 2.41)",,0.93,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB08138*,Human Metabolome Database,C36:4 Phosphatidylcholines B,C36:4 PC-B,Odds Ratio,1.43,Odds Ratio,1.43,Q90 v Q10,"(0.83, 2.46)",,0.96,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,NA,,Phosphatidylcholine Sum,PC Sum,Odds Ratio,1.4,Odds Ratio,1.4,Q90 v Q10,"(0.83, 2.37)",,0.96,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,NA,,Ceramide sum,CER sum,Odds Ratio,1.37,Odds Ratio,1.37,Q90 v Q10,"(0.84, 2.24)",,0.96,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB04956,Human Metabolome Database,C24:0 Ceramide,C24:0 CER,Odds Ratio,1.35,Odds Ratio,1.35,Q90 v Q10,"(0.82, 2.21)",,0.97,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB10403*,Human Metabolome Database,C22:5 Lysophosphatidylcholines,C22:5 LPC,Odds Ratio,1.3,Odds Ratio,1.3,Q90 v Q10,"(0.82, 2.08)",,0.99,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB07873*,Human Metabolome Database,C32:1 Phosphatidylcholines,C32:1 PC,Odds Ratio,1.31,Odds Ratio,1.31,Q90 v Q10,"(0.80, 2.13)",,0.99,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB07972*,Human Metabolome Database,C34:1 Phosphatidylcholines,C34:1 PC,Odds Ratio,1.32,Odds Ratio,1.32,Q90 v Q10,"(0.81, 2.13)",,0.99,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,NA,,Lysophosphatidylcholines: Phosphatidylcholines,LPC:PC,Odds Ratio,0.76,Odds Ratio,0.76,Q90 v Q10,"(0.45, 1.28)",,0.99,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB08057*,Human Metabolome Database,C40:6 Phosphatidylcholines,C40:6 PC,Odds Ratio,1.32,Odds Ratio,1.32,Q90 v Q10,"(0.77, 2.24)",,0.99,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB04953*,Human Metabolome Database,C24:1 Ceramide,C24:1 CER,Odds Ratio,1.29,Odds Ratio,1.29,Q90 v Q10,"(0.79, 2.11)",,0.99,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB08511*,Human Metabolome Database,C40:10 Phosphatidylcholines,C40:10 PC,Odds Ratio,1.31,Odds Ratio,1.31,Q90 v Q10,"(0.78, 2.20)",,0.99,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB07991*,Human Metabolome Database,C38:6 Phosphatidylcholines,C38:6 PC,Odds Ratio,1.27,Odds Ratio,1.27,Q90 v Q10,"(0.73, 2.21)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB08039*,Human Metabolome Database,C36:2 Phosphatidylcholines B,C36:2 PC-B,Odds Ratio,1.23,Odds Ratio,1.23,Q90 v Q10,"(0.77, 1.96)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB10379,Human Metabolome Database,C14:0  Lysophosphatidylcholines,C14:0 LPC,Odds Ratio,0.85,Odds Ratio,0.85,Q90 v Q10,"(0.54, 1.36)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB10382,Human Metabolome Database,C16:0  Lysophosphatidylcholines,C16:0 LPC,Odds Ratio,1.08,Odds Ratio,1.08,Q90 v Q10,"(0.67, 1.75)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB10383*,Human Metabolome Database,C16:1 Lysophosphatidylcholines,C16:1 LPC,Odds Ratio,1.13,Odds Ratio,1.13,Q90 v Q10,"(0.71, 1.79)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB10384,Human Metabolome Database,C18:0  Lysophosphatidylcholines,C18:0 LPC,Odds Ratio,0.95,Odds Ratio,0.95,Q90 v Q10,"(0.57, 1.58)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB02815*,Human Metabolome Database,C18:1  Lysophosphatidylcholines,C18:1 LPC,Odds Ratio,0.89,Odds Ratio,0.89,Q90 v Q10,"(0.55, 1.45)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB10386*,Human Metabolome Database,C18:2  Lysophosphatidylcholines,C18:2 LPC,Odds Ratio,0.98,Odds Ratio,0.98,Q90 v Q10,"(0.61, 1.57)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB10387*,Human Metabolome Database,C18:3  Lysophosphatidylcholines,C18:3 LPC,Odds Ratio,1.08,Odds Ratio,1.08,Q90 v Q10,"(0.67, 1.75)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB10395,Human Metabolome Database,C20:4  Lysophosphatidylcholines,C20:4 LPC,Odds Ratio,1.05,Odds Ratio,1.05,Q90 v Q10,"(0.65, 1.70)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB10397,Human Metabolome Database,C20:5  Lysophosphatidylcholines,C20:5 LPC,Odds Ratio,1.05,Odds Ratio,1.05,Q90 v Q10,"(0.65, 1.67)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB10404,Human Metabolome Database,C22:6  Lysophosphatidylcholines,C22:6 LPC,Odds Ratio,1.23,Odds Ratio,1.23,Q90 v Q10,"(0.73, 2.07)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB07869*,Human Metabolome Database,C30:0  Phosphatidylcholines,C30:0 PC,Odds Ratio,1.01,Odds Ratio,1.01,Q90 v Q10,"(0.63, 1.62)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB07870*,Human Metabolome Database,C30:1  Phosphatidylcholines,C30:1 PC,Odds Ratio,0.93,Odds Ratio,0.93,Q90 v Q10,"(0.58, 1.50)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB07871*,Human Metabolome Database,C32:0  Phosphatidylcholines,C32:0 PC,Odds Ratio,1.11,Odds Ratio,1.11,Q90 v Q10,"(0.68, 1.83)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB07874*,Human Metabolome Database,C32:2  Phosphatidylcholines,C32:2 PC,Odds Ratio,1.14,Odds Ratio,1.14,Q90 v Q10,"(0.71, 1.84)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB07883*,Human Metabolome Database,C34:4  Phosphatidylcholines,C34:4 PC,Odds Ratio,0.95,Odds Ratio,0.95,Q90 v Q10,"(0.59, 1.54)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB08038*,Human Metabolome Database,C36:1  Phosphatidylcholines,C36:1 PC,Odds Ratio,1.05,Odds Ratio,1.05,Q90 v Q10,"(0.67, 1.66)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB08731*,Human Metabolome Database,C40:9  Phosphatidylcholines,C40:9 PC,Odds Ratio,1.19,Odds Ratio,1.19,Q90 v Q10,"(0.69, 2.06)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB08039*,Human Metabolome Database,C36:2  Phosphatidylcholines A,C36:2 PC-A,Odds Ratio,0.99,Odds Ratio,0.99,Q90 v Q10,"(0.61, 1.61)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB04952,Human Metabolome Database,C22:0 Ceramides,C22:0 CER,Odds Ratio,1.21,Odds Ratio,1.21,Q90 v Q10,"(0.74, 1.97)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,HMDB04953*,Human Metabolome Database,C24:1 Ceramide B,C24:1 Ceramide-B,Odds Ratio,1.21,Odds Ratio,1.21,Q90 v Q10,"(0.74, 1.98)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,NA,,Lysophosphatidylcholines Sum,LPC sum,Odds Ratio,1.02,Odds Ratio,1.02,Q90 v Q10,"(0.63, 1.65)",,1,,,C56,Ovarian Cancer
-31593240,31593240.1.1,,NA,,Sphingomyelins: Ceramides,SM:CER,Odds Ratio,1.11,Odds Ratio,1.11,Q90 v Q10,"(0.68, 1.79)",,1,,,C56,Ovarian Cancer
+pmid,analytic_method,experiment_name,biomarker_id,biomarker_id_origin,biomarker_long_name,biomarker_short_name,original_name,original_value,association_name,association_value,association_unit,95% CI,se,association_p_value,association_p_qualifier,association_p_value_unit,association_p_value_raw,association_p_value_raw_qualifier,association_p_value_raw_unit,concept_id,concept_id_description
+31593240,31593240.1.1,,HMDB01348,Human Metabolome Database,C18:0 Sphingomyelins,C18:0 SM,Odds Ratio,2.1,Odds Ratio,2.1,Q90 v Q10,"(1.26, 3.49)",,0.08,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB10169,Human Metabolome Database,C16:0 Sphingomyelins,C16:0 SM,Odds Ratio,2.06,Odds Ratio,2.06,Q90 v Q10,"(1.19, 3.56)",,0.17,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,NA,,Sphingomyelins Sum,SM Sum,Odds Ratio,1.97,Odds Ratio,1.97,Q90 v Q10,"(1.16, 3.32)",,0.2,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB04949,Human Metabolome Database,C16:0 Ceramide,C16:0 CER,Odds Ratio,1.95,Odds Ratio,1.95,Q90 v Q10,"(1.16, 3.30)",,0.21,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB07973*,Human Metabolome Database,C34:2 Phosphatidylcholines,C34:2 PC,Odds Ratio,1.82,Odds Ratio,1.82,Q90 v Q10,"(1.08, 3.06)",,0.36,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB08047*,Human Metabolome Database,C38:3 Phosphatidylcholines,C38:3 PC,Odds Ratio,1.67,Odds Ratio,1.67,Q90 v Q10,"(1.01, 2.76)",,0.55,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB12097,Human Metabolome Database,C14:0 Sphingomyelins,C14:0 SM,Odds Ratio,1.65,Odds Ratio,1.65,Q90 v Q10,"(1.00, 2.72)",,0.6,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB12104*,Human Metabolome Database,C22:1 Sphingomyelins,C22:1 SM,Odds Ratio,1.65,Odds Ratio,1.65,Q90 v Q10,"(0.98, 2.77)",,0.64,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB12102,Human Metabolome Database,C20:0 Sphingomyelins,C20:0 SM,Odds Ratio,1.6,Odds Ratio,1.6,Q90 v Q10,"(0.97, 2.63)",,0.66,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,NA,,C16:1 Sphingomyelins,C16:1 SM,Odds Ratio,1.44,Odds Ratio,1.44,Q90 v Q10,"(0.86, 2.41)",,0.93,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB08138*,Human Metabolome Database,C36:4 Phosphatidylcholines B,C36:4 PC-B,Odds Ratio,1.43,Odds Ratio,1.43,Q90 v Q10,"(0.83, 2.46)",,0.96,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,NA,,Phosphatidylcholine Sum,PC Sum,Odds Ratio,1.4,Odds Ratio,1.4,Q90 v Q10,"(0.83, 2.37)",,0.96,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,NA,,Ceramide sum,CER sum,Odds Ratio,1.37,Odds Ratio,1.37,Q90 v Q10,"(0.84, 2.24)",,0.96,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB04956,Human Metabolome Database,C24:0 Ceramide,C24:0 CER,Odds Ratio,1.35,Odds Ratio,1.35,Q90 v Q10,"(0.82, 2.21)",,0.97,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB10403*,Human Metabolome Database,C22:5 Lysophosphatidylcholines,C22:5 LPC,Odds Ratio,1.3,Odds Ratio,1.3,Q90 v Q10,"(0.82, 2.08)",,0.99,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB07873*,Human Metabolome Database,C32:1 Phosphatidylcholines,C32:1 PC,Odds Ratio,1.31,Odds Ratio,1.31,Q90 v Q10,"(0.80, 2.13)",,0.99,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB07972*,Human Metabolome Database,C34:1 Phosphatidylcholines,C34:1 PC,Odds Ratio,1.32,Odds Ratio,1.32,Q90 v Q10,"(0.81, 2.13)",,0.99,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,NA,,Lysophosphatidylcholines: Phosphatidylcholines,LPC:PC,Odds Ratio,0.76,Odds Ratio,0.76,Q90 v Q10,"(0.45, 1.28)",,0.99,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB08057*,Human Metabolome Database,C40:6 Phosphatidylcholines,C40:6 PC,Odds Ratio,1.32,Odds Ratio,1.32,Q90 v Q10,"(0.77, 2.24)",,0.99,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB04953*,Human Metabolome Database,C24:1 Ceramide,C24:1 CER,Odds Ratio,1.29,Odds Ratio,1.29,Q90 v Q10,"(0.79, 2.11)",,0.99,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB08511*,Human Metabolome Database,C40:10 Phosphatidylcholines,C40:10 PC,Odds Ratio,1.31,Odds Ratio,1.31,Q90 v Q10,"(0.78, 2.20)",,0.99,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB07991*,Human Metabolome Database,C38:6 Phosphatidylcholines,C38:6 PC,Odds Ratio,1.27,Odds Ratio,1.27,Q90 v Q10,"(0.73, 2.21)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB08039*,Human Metabolome Database,C36:2 Phosphatidylcholines B,C36:2 PC-B,Odds Ratio,1.23,Odds Ratio,1.23,Q90 v Q10,"(0.77, 1.96)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB10379,Human Metabolome Database,C14:0  Lysophosphatidylcholines,C14:0 LPC,Odds Ratio,0.85,Odds Ratio,0.85,Q90 v Q10,"(0.54, 1.36)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB10382,Human Metabolome Database,C16:0  Lysophosphatidylcholines,C16:0 LPC,Odds Ratio,1.08,Odds Ratio,1.08,Q90 v Q10,"(0.67, 1.75)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB10383*,Human Metabolome Database,C16:1 Lysophosphatidylcholines,C16:1 LPC,Odds Ratio,1.13,Odds Ratio,1.13,Q90 v Q10,"(0.71, 1.79)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB10384,Human Metabolome Database,C18:0  Lysophosphatidylcholines,C18:0 LPC,Odds Ratio,0.95,Odds Ratio,0.95,Q90 v Q10,"(0.57, 1.58)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB02815*,Human Metabolome Database,C18:1  Lysophosphatidylcholines,C18:1 LPC,Odds Ratio,0.89,Odds Ratio,0.89,Q90 v Q10,"(0.55, 1.45)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB10386*,Human Metabolome Database,C18:2  Lysophosphatidylcholines,C18:2 LPC,Odds Ratio,0.98,Odds Ratio,0.98,Q90 v Q10,"(0.61, 1.57)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB10387*,Human Metabolome Database,C18:3  Lysophosphatidylcholines,C18:3 LPC,Odds Ratio,1.08,Odds Ratio,1.08,Q90 v Q10,"(0.67, 1.75)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB10395,Human Metabolome Database,C20:4  Lysophosphatidylcholines,C20:4 LPC,Odds Ratio,1.05,Odds Ratio,1.05,Q90 v Q10,"(0.65, 1.70)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB10397,Human Metabolome Database,C20:5  Lysophosphatidylcholines,C20:5 LPC,Odds Ratio,1.05,Odds Ratio,1.05,Q90 v Q10,"(0.65, 1.67)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB10404,Human Metabolome Database,C22:6  Lysophosphatidylcholines,C22:6 LPC,Odds Ratio,1.23,Odds Ratio,1.23,Q90 v Q10,"(0.73, 2.07)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB07869*,Human Metabolome Database,C30:0  Phosphatidylcholines,C30:0 PC,Odds Ratio,1.01,Odds Ratio,1.01,Q90 v Q10,"(0.63, 1.62)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB07870*,Human Metabolome Database,C30:1  Phosphatidylcholines,C30:1 PC,Odds Ratio,0.93,Odds Ratio,0.93,Q90 v Q10,"(0.58, 1.50)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB07871*,Human Metabolome Database,C32:0  Phosphatidylcholines,C32:0 PC,Odds Ratio,1.11,Odds Ratio,1.11,Q90 v Q10,"(0.68, 1.83)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB07874*,Human Metabolome Database,C32:2  Phosphatidylcholines,C32:2 PC,Odds Ratio,1.14,Odds Ratio,1.14,Q90 v Q10,"(0.71, 1.84)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB07883*,Human Metabolome Database,C34:4  Phosphatidylcholines,C34:4 PC,Odds Ratio,0.95,Odds Ratio,0.95,Q90 v Q10,"(0.59, 1.54)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB08038*,Human Metabolome Database,C36:1  Phosphatidylcholines,C36:1 PC,Odds Ratio,1.05,Odds Ratio,1.05,Q90 v Q10,"(0.67, 1.66)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB08731*,Human Metabolome Database,C40:9  Phosphatidylcholines,C40:9 PC,Odds Ratio,1.19,Odds Ratio,1.19,Q90 v Q10,"(0.69, 2.06)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB08039*,Human Metabolome Database,C36:2  Phosphatidylcholines A,C36:2 PC-A,Odds Ratio,0.99,Odds Ratio,0.99,Q90 v Q10,"(0.61, 1.61)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB04952,Human Metabolome Database,C22:0 Ceramides,C22:0 CER,Odds Ratio,1.21,Odds Ratio,1.21,Q90 v Q10,"(0.74, 1.97)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,HMDB04953*,Human Metabolome Database,C24:1 Ceramide B,C24:1 Ceramide-B,Odds Ratio,1.21,Odds Ratio,1.21,Q90 v Q10,"(0.74, 1.98)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,NA,,Lysophosphatidylcholines Sum,LPC sum,Odds Ratio,1.02,Odds Ratio,1.02,Q90 v Q10,"(0.63, 1.65)",,1,,,,,,C56,Ovarian Cancer
+31593240,31593240.1.1,,NA,,Sphingomyelins: Ceramides,SM:CER,Odds Ratio,1.11,Odds Ratio,1.11,Q90 v Q10,"(0.68, 1.79)",,1,,,,,,C56,Ovarian Cancer
