@@ -1,0 +1,25 @@
+pmid,analytic_method,experiment_name,biomarker_id,biomarker_id_origin,biomarker_long_name,biomarker_short_name,original_name,original_value,association_name,association_value,association_unit,95_CI,se,association_p_value,association_p_qualifier,association_p_value_unit,association_p_value_raw,association_p_value_raw_qualifier,association_p_value_raw_unit,concept_id,concept_id_description
+29575390,29575390.1.1,,,,Xylitol,Xylitol,,,Odds Ratio,1.52,Q1 vs. Q4,0.64-3.60,,0.57,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.2,,,,Xylitol,Xylitol,,,Odds Ratio,1.39,Q1 vs. Q4,0.56-3.46,,0.78,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.1,,,,"1,5-anhydro-d-glucitol","1,5 AG",,,Odds Ratio,0.5,Q1 vs. Q4,0.27-0.93,,0.02,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.2,,,,"1,5-anhydro-d-glucitol","1,5 AG",,,Odds Ratio,0.56,Q1 vs. Q4,0.29-1.09,,0.06,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.1,,,,Histidine,His,,,Odds Ratio,1.53,Q1 vs. Q4,0.75-3.12,,0.24,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.2,,,,Histidine,His,,,Odds Ratio,1.47,Q1 vs. Q4,0.70-3.09,,0.28,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.1,,,,Inositol,Myo,,,Odds Ratio,1.75,Q1 vs. Q4,0.94-3.24,,0.17,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.2,,,,Inositol,Myo,,,Odds Ratio,1.85,Q1 vs. Q4,0.98-3.49,,0.17,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.1,,,,Theronine,Thr,,,Odds Ratio,1.19,Q1 vs. Q4,0.65-2.20,,0.57,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.2,,,,Theronine,Thr,,,Odds Ratio,1.19,Q1 vs. Q4,0.63-2.25,,0.64,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.1,,,,Methionine,Met,,,Odds Ratio,1.79,Q1 vs. Q4,0.94-3.40,,0.03,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.2,,,,Methionine,Met,,,Odds Ratio,1.64,Q1 vs. Q4,0.83-3.17,,0.07,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.1,,,,Arabinose,L- Ara,,,Odds Ratio,1.05,Q1 vs. Q4,0.55-2.01,,0.94,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.2,,,,Arabinose,L- Ara,,,Odds Ratio,1.05,Q1 vs. Q4,0.53-2.09,,0.93,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.1,,,,Asparagine,Asn,,,Odds Ratio,0.74,Q1 vs. Q4,0.40-1.36,,0.18,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.2,,,,Asparagine,Asn,,,Odds Ratio,0.82,Q1 vs. Q4,0.44-1.55,,0.32,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.1,,,,Glutamine,Gln,,,Odds Ratio,1,Q1 vs. Q4,0.51-1.99,,1,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.2,,,,Glutamine,Gln,,,Odds Ratio,0.98,Q1 vs. Q4,0.48-1.98,,0.92,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.1,,,,Lysine,Lys,,,Odds Ratio,1.82,Q1 vs. Q4,0.92-3.58,,0.09,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.2,,,,Lysine,Lys,,,Odds Ratio,1.86,Q1 vs. Q4,0.92-3.77,,0.12,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.1,,,,Tyrosine,Tyr,,,Odds Ratio,1.45,Q1 vs. Q4,0.80-2.63,,0.3,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.2,,,,Tyrosine,Tyr,,,Odds Ratio,1.15,Q1 vs. Q4,0.62-2.14,,0.85,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.1,,,,Uric Acid,Sua,,,Odds Ratio,0.94,Q1 vs. Q4,0.53-1.66,,0.45,,,,,,C25,Pancreatic Cancer
+29575390,29575390.1.2,,,,Uric Acid,Sua,,,Odds Ratio,0.82,Q1 vs. Q4,0.45-1.50,,0.27,,,,,,C25,Pancreatic Cancer

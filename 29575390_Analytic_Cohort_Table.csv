@@ -1,0 +1,4 @@
+pmid,analytic_cohort_id,cohort_name,study_design,setting,period_of_recruitment,period_of_exposure,period_of_follow-up,observation_period,data_collection,species,inclusion_exclusion_criteria,overall_n_value,exposure,recruitment_start_date,recruitment_end_date
+29575390,29575390.1,,"cohort, case study control",11 PHC (Public Health Centers in Japan),"1990 - 1993, 2018",,,,,,Cohort I (40-59 years) Cohort II (40-69 years),"140,420 subjects",Metabolites,,
+,,,,,,,,,,,"Newly diagnosed (170) pancreatic cancer cases until 12/2009,follow up of  median 16.4  years",,,,
+,,,,,,,,,,,"Control groups, randomly selected  5 year age- group",,,,

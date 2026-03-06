@@ -1,0 +1,3 @@
+pmid,analytic_method,analytic_measure,analytic_model,model_details,result_id
+29575390,29575390.1.1,Mass Spectrometry Data,Conditional Logistic Regression,"OR was adjusted for age (5-y age group), gender, public health center (PHC) area, and duration of the fasting period prior to blood sampling (less than 7 hours, 7 hours or more, or unknown).",
+29575390,29575390.1.2,Mass Spectrometry Data,Conditional Logistic Regression,"OR was adjusted for age (5-y age group), gender, PHC area, duration of the fasting period prior to blood sampling (less than 7 hours, 7 hours or more, or unknown), smoking, body mass index, and past history of diabetes mellitus.",
